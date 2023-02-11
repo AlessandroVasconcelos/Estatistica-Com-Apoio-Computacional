@@ -1,4 +1,4 @@
-# UVA - Estatística Com Apoio Computacional.
+# Estatística Com Apoio Computacional - UVA.
 
 ## Ementa:
 Introdução à planilha eletrônica. Introdução à linguagem R. Conceitos e distribuições fundamentais em Estatística. Testes estatísticos mais importantes. Noções de Correlação e Regressão.
