@@ -1,4 +1,4 @@
-# Estatística Com Apoio Computacional - UVA.
+# Estatística Com Apoio Computacional - Ciências da Computação - UVA.
 
 ## Ementa:
 - Introdução à linguagem R. 
