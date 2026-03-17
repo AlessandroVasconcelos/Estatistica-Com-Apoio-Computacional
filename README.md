@@ -1,15 +1,16 @@
-# Estatística Com Apoio Computacional - Ciências da Computação - UVA
+# Estatística com Apoio Computacional
+Este repositório contém as implementações, exercícios e práticas de laboratório desenvolvidos durante a disciplina de Estatística com Apoio Computacional do curso de Ciência da Computação na Universidade Estadual Vale do Acaraú (UVA).
 
-## Ementa:
+## 📌 Ementa:
 - Introdução à linguagem R. 
 - Conceitos e distribuições fundamentais em Estatística. 
 - Testes estatísticos mais importantes.
 - Noções de Correlação e Regressão.
 
-## Professor:
+## 👨‍🏫 Professor:
 Paulo Regis Menezes Sousa.
 
-## Bibliografia Básica:
+## 📚 Bibliografia:
 1. COSTA NETO, P. L. O. Estatística. São Paulo: Edgard Blücher, 2002.
 2. FERREIRA, Eric Batista; OLIVEIRA, Marcelo Silva de. Introdução à Estatística com R. Editora Unifal-MG, 2020.
 3. TOLEDO, G. L. Estatística Básica. São Paulo: Atlas, 1983.
